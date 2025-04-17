@@ -47,4 +47,4 @@ upload_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 # adding a drop down list to the app
 # option = st.selectbox(
 #     "How would you like to be contacted?",
-#     ("Email", "Phone", "SMS"))
+#     ("Email"
