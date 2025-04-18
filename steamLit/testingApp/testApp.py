@@ -44,6 +44,4 @@ st.sidebar.write(f"Hello {name}")
 # adding a file uploader to the app
 upload_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
-# adding a drop down list to the app
-# option = st.selectbox(
 
